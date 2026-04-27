@@ -7,6 +7,8 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 - Picoamp current readout for nanopore DNA sensing
 - Gas sensor capacitive interface
 - High-speed LVDS to CMOS link
+- ADC architectures
+- Full chip padframe integration
 
 ### Responsibilities
 - Architecture design
