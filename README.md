@@ -10,7 +10,11 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 
 ### Responsibilities
 - Architecture design
+- Schematic design
+- Cadence Virtuoso implementation
 - Physical layout
+- DRC / LVS / Signoff flow
+- Tapeout preparation
 
 
 ### Tools
