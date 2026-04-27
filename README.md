@@ -4,6 +4,8 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 
 ## Featured 22nm FD-SOI Chip
 ![Chip Layout](ANALOG_PAH.png)
+![Chip Layout](Buffer_High_Speed_Link.png)
+![Chip Layout](IC_Layout.png)
 
 
 ## Featured Project: Multi-Block Mixed-Signal SoC in 22nm FD-SOI
