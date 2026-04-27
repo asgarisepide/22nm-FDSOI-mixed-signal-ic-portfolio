@@ -10,6 +10,10 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ### High-Speed Link Buffer / LVDS to CMOS Interface
 ![High-Speed Link Buffer](Buffer_High_Speed_Link.png)
 
+### Sigma Delta ADC
+![High-Speed Link Buffer](SDM_ADC.png)
+
+
 ### Full Mixed-Signal Chip Layout
 ![Full IC Layout](IC_Layout.png)
 
