@@ -8,7 +8,7 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ![Gas Sensor Readout IC](ANALOG_PAH.png)
 
 ### High-Speed Link Buffer / LVDS to CMOS Interface
-![High-Speed Link Buffer](Buffer Schematic.png)
+![Buffer Schematic](Buffer Schematic.png)
 
 ![High-Speed Link Buffer](Buffer_High_Speed_Link.png)
 ### Sigma Delta ADC
