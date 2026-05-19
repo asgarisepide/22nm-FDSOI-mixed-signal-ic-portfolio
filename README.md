@@ -15,6 +15,7 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ### Sigma Delta ADC
 ![High-Speed Link Buffer](SDM_ADC.png)
 
+This is a second-order delta-sigma analog-to-digital converter in 22-nm. This design serves as the data conversion block in array nanopore readout ICs.
 
 ### Full Mixed-Signal Chip Layout
 ![Full IC Layout](IC_Layout.png)
