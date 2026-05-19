@@ -12,7 +12,9 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 
 ![High-Speed Link Buffer](Buffer_High_Speed_Link.png)
 
-### Sigma Delta ADC
+### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
+<img width="708" height="53" alt="image" src="https://github.com/user-attachments/assets/70072270-3389-4921-8cde-18bcb30fce8e" />
+
 ![High-Speed Link Buffer](SDM_ADC.png)
 
 This is a second-order delta-sigma analog-to-digital converter in 22-nm. This design serves as the data conversion block in array nanopore readout ICs.
