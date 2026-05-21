@@ -15,7 +15,7 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
 The idea is that, instead of using the integrator-Filter-CDS-SARADC chain, we directly apply a current input to the sigma-delta and obtain a digitized output.
 
-Schematic:
+Here's the schematic:
 
 ![High-Speed Link Buffer](figures/delta_sigma.png)
 
