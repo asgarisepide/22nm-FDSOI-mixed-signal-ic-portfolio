@@ -13,6 +13,7 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ![High-Speed Link Buffer](Buffer_High_Speed_Link.png)
 
 ### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
+The idea is that, instead of using the integrator-Filter-CDS-SARADC chain, we directly apply a current input to the sigma-delta and obtain a digitized output.
 
 ![High-Speed Link Buffer](SDM_ADC.png)
 
