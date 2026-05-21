@@ -2,7 +2,7 @@
 
 Custom integrated circuit projects focused on analog, mixed-signal, sensing, and high-speed interfaces.
 
-## Featured 22nm FD-SOI Chip
+## Featured 22nm, FD-SOI Chip
 
 ### Gas Sensor Readout IC (PAH Detection)
 ![Gas Sensor Readout IC](ANALOG_PAH.png)
@@ -15,7 +15,7 @@ Custom integrated circuit projects focused on analog, mixed-signal, sensing, and
 ### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
 The idea is that, instead of using the integrator-Filter-CDS-SARADC chain, we directly apply a current input to the sigma-delta and obtain a digitized output.
 
-![High-Speed Link Buffer](Figures/SDM_ADC.png)
+![High-Speed Link Buffer](Figures/delta_sigma.png)
 
 ![High-Speed Link Buffer](SDM_ADC.png)
 
