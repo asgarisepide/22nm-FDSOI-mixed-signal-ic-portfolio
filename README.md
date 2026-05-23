@@ -2,6 +2,13 @@
 
 Custom integrated circuit projects focused on analog, mixed-signal, sensing, and high-speed interfaces.
 
+
+For a new project, we designed a current-readout architecture for gas sensing in 22nm FDSOI.
+The excitation signal is a sine wave superimposed on a staircase signal. The staircase creates a large DC component, which can easily saturate the integrator.
+So, we implemented a current mirror to subtract the DC currents from the DC staircase and only amplify the AC signal, which contains the information.
+There is a feedback path for automatic current control that activates IDACs. It injects a compensating current before the integration.
+
+
 ## Featured 22nm, FD-SOI Chip
 
 ### Gas Sensor Readout IC (PAH Detection)
