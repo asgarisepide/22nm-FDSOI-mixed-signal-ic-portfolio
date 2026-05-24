@@ -10,14 +10,15 @@ For a new project, we designed a current-readout architecture for gas sensing in
 ![Gas Sensor Readout IC](ANALOG_PAH.png)
 
 ### High-Speed Link Buffer / LVDS to CMOS Interface
+
+![High-Speed Link Buffer](RT_Board.png)
+
 ![Buffer_Schematic](Buffer_Schematic.png)
 
 ![High-Speed Link Buffer](Buffer_High_Speed_Link.png)
 
 ### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
 The idea is that, instead of using the integrator-Filter-CDS-SARADC chain, we directly apply a current input to the sigma-delta and obtain a digitized output.
-
-![High-Speed Link Buffer](RT_Board.png)
 
 Here's the schematic:
 
