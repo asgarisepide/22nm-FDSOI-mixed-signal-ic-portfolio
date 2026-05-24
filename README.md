@@ -17,7 +17,7 @@ The Spartan-6 sends a differential LVDS clock through the Real Trouble board to 
 
 ![High-Speed Link Buffer](RT_Board.png)
 Turned a LVDS differential 1GHz signal into a proper 0-0.8-V CMOS clock using three inverter-based amplifiers. 
-The output clock can be divided-by-2, 4, 5. One important result is the cycle-to-cycle jitter, which is 3.4 ps RMS So, the variation from one clock period to the next is very small
+The output clock can be divided-by-2, 4, or 5. One important result is the cycle-to-cycle jitter, which is 3.4 ps RMS So, the variation from one clock period to the next is very small
 
 ![Buffer_Schematic](Buffer_Schematic.png)
 
