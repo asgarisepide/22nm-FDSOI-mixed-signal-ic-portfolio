@@ -37,6 +37,9 @@ Layout in 22-nm FDSOI
 This is a second-order delta-sigma analog-to-digital converter in 22-nm. This design serves as the data conversion block in array nanopore readout ICs.
 
 ### Full Mixed-Signal Chip Layout
+
+This chip indicates the full mixed-signal chip layout in 22-nm FD-SOI. It integrates the gas sensor, nanopore current readout, high-speed link buffer, and level shifter in one chip. 
+
 ![Full IC Layout](IC_Layout.png)
 
 ---
