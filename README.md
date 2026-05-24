@@ -17,6 +17,8 @@ For a new project, we designed a current-readout architecture for gas sensing in
 ### A Second-Order ΔΣ ADC for DNA Nanopore Readout Interface
 The idea is that, instead of using the integrator-Filter-CDS-SARADC chain, we directly apply a current input to the sigma-delta and obtain a digitized output.
 
+![High-Speed Link Buffer](RT_Board.png)
+
 Here's the schematic:
 
 ![High-Speed Link Buffer](figures/delta_sigma.png)
