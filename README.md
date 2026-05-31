@@ -12,7 +12,7 @@ For a new project, we designed a current-readout architecture for gas sensing in
 ### High-Speed Link Buffer / LVDS to CMOS Interface
 Since we can't provide a high clock signal externally, we need to generate it on chip
 
-The Spartan-6 sends a differential LVDS clock through the Real Trouble board to the ASIC, with 100-ohm on-board termination for impedance matching. Since this LVDS signal has small swing and a different common-mode level, I designed an on-chip receiver to AC-couple, bias, amplify, and convert it into a full 0-to-0.8-V CMOS clock for the digital core.
+The Spartan-6 sends a differential LVDS clock through the Real Trouble board to the ASIC, with 100-ohm on-board termination for impedance matching. Since this LVDS signal has a small swing and a different common-mode level, I designed an on-chip receiver to AC-couple, bias, amplify, and convert it into a full 0-to-0.8-V CMOS clock for the digital core.
 
 
 ![High-Speed Link Buffer](RT_Board.png)
